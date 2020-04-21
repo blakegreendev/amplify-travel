@@ -21,6 +21,8 @@ import imgBangkok from 'assets/images/bangkok.jpg';
 import imgNice from 'assets/images/nice.jpg';
 import imgBarcelona from 'assets/images/barcelona.jpg';
 import imgAuckland from 'assets/images/auckland.jpg';
+import imgTahiti from 'assets/images/tahiti.jpg';
+import imgFlorence from 'assets/images/florence.jpg';
 
 
 export const locations = [
